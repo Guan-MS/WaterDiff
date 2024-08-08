@@ -19,7 +19,7 @@ This codebase was tested with the following environment configurations. It may w
 - Ubuntu 20.04
 - CUDA 11.7
 - Python 3.9
-- PyTorch 2.0.1 + cu117Previous installation
+- PyTorch 2.0.1 + cu117
 
 ### Previous installation
 
