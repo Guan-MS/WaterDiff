@@ -8,7 +8,7 @@ Underwater imaging is affected by absorption and SCAtering, leading to issues su
 
 ## Overview
 
-![Demo gif](assets/model2.png)
+![Demo](assets/model2.png)
 
 
 
